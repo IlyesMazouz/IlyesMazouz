@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilyes Mazouz</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-<div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyesmazouz&label=Profile%20views&color=0e75b6&style=flat" alt="ilyesmazouz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyesmazouz" alt="ilyesmazouz" /></a> </p>
