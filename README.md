@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilyes Mazouz</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-<iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>
+<img src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyesmazouz" alt="ilyesmazouz" /></a> </p>
 
 - 🔭 I’m currently working on **ES6 data manipulation**
