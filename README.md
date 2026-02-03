@@ -3,13 +3,13 @@
 <img src="https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg" height="600">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyesmazouz" alt="ilyesmazouz" /></a> </p>
 
-- 🔭 I’m currently working on **ES6 data manipulation**
+- 🔭 I’m currently working on personal projects
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently looking for a professional opportunity
 
 - 👯 I’m looking to collaborate on **end of year project**
 
-- 🤝 I’m looking for help with **end of year project**
+- 🤝 I’m looking to grow within a collaborative team
 
 - 👨‍💻 All of my projects are available at [portfolio.ilyes-ma.com](portfolio.ilyes-ma.com)
 
