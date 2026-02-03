@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently looking for a professional opportunity
 
-- 👯 I’m looking to collaborate on **end of year project**
+- 👯 I’m looking to apply my skills
 
 - 🤝 I’m looking to grow within a collaborative team
 
